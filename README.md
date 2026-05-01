@@ -9,4 +9,11 @@ Projeto de automação para pesquisa e organização de arquivos com base em pal
 
 ## Como executar
 ```bash
-python src/main.py"# file-folder-search-tool" 
+python src/main.py"# file-folder-search-tool"
+
+## Como usar (Usuário)
+
+1. Vá até a aba **Releases**
+2. Baixe o arquivo `Localizador_Setup.exe`
+3. Execute o instalador
+4. Use o programa normalmente
