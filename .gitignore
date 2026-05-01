@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Outputs do programa
+output/
+
+# Executáveis
+*.exe
+
+# Sistema
+.DS_Store
+Thumbs.db
