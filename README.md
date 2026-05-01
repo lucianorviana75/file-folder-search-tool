@@ -33,3 +33,12 @@ O código é escrito em Python e utiliza Tkinter para a interface gráfica.
 ```bash
 git clone https://github.com/SEUUSUARIO/localizador-arquivos.git
 cd localizador-arquivos
+
+###Executar a aplicação localmente
+python src/main.py
+
+###Estrutura do projeto
+src/
+ └── main.py        # Código principal da aplicação
+README.md           # Documentação
+requirements.txt    # Dependências (se aplicável)
