@@ -17,3 +17,19 @@ python src/main.py"# file-folder-search-tool"
 2. Baixe o arquivo `Localizador_Setup.exe`
 3. Execute o instalador
 4. Use o programa normalmente
+
+
+## Para desenvolvedores / usuários técnicos
+
+Este repositório contém o **código-fonte** da aplicação *Localizador de Arquivos e Pastas*.
+
+O código é escrito em Python e utiliza Tkinter para a interface gráfica.
+
+### Requisitos
+- Python 3.9 ou superior
+- Sistema operacional: Windows, Linux ou macOS
+
+### Clonar o repositório
+```bash
+git clone https://github.com/SEUUSUARIO/localizador-arquivos.git
+cd localizador-arquivos
