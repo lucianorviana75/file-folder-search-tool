@@ -9,4 +9,4 @@ Projeto de automação para pesquisa e organização de arquivos com base em pal
 
 ## Como executar
 ```bash
-python src/main.py
+python src/main.py"# file-folder-search-tool" 
